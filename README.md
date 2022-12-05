@@ -3,6 +3,7 @@
 
 Близок девиз ШАДа - "Будет сложно, вам понравится"
 Люблю изучать новое и разбираться в чем-то трудном, так как обычно дохожу до цели и результат не может не радовать.
+
 Посмотреть мое резюме можете по ссылке: https://disk.yandex.ru/i/zfr1WRMxTRE_UA
 <!--
 **kateklec/kateklec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
